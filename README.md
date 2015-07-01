@@ -1,1 +1,1 @@
-# docker-ember
+# Docker build file for ember cli
