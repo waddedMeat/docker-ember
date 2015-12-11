@@ -20,3 +20,4 @@ RUN cd /usr/local/src; \
 
 EXPOSE 4200
 EXPOSE 35729
+EXPOSE 49152
