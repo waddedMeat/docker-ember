@@ -1,4 +1,4 @@
-FROM node:4.2.1
+FROM node:4.4.0
 
 MAINTAINER waddedmeat@gmail.com
 
