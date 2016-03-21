@@ -7,6 +7,7 @@ RUN npm install -g gulp
 RUN npm install -g bower
 RUN npm install -g ember-cli
 RUN npm install -g phantomjs
+RUN npm rebuild node-sass
 
 RUN cd /usr/local/src; \
     git clone --depth 1 --branch v3.0.0 https://github.com/facebook/watchman.git; \
